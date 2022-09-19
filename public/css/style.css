@@ -1,0 +1,35 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #fff;
+}
+
+.header-title{
+    padding-top: 4rem;
+    padding-bottom: 2rem;
+    font-size: 5rem;
+}
+
+a{
+    text-decoration: none;
+}
+
+.btn-space {
+    margin-right: 7px;
+    margin-top: 3px;
+}
+
+li{
+    list-style: none;
+}
+
+.index-image{
+    height: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
+
+.img-border{
+    border-radius: 10px;
+}

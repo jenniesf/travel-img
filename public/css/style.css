@@ -33,3 +33,27 @@ li{
 .img-border{
     border-radius: 10px;
 }
+
+.header-title > a {
+    color: rgba(0, 0, 0, 0.781); 
+}
+
+.intro-section{
+    width: 500px;
+    margin: auto;
+    padding-bottom: 2rem;
+    color: rgb(5, 5, 103);
+}
+
+.log-section{
+    padding-top: 3rem;
+}
+
+.contact-section{
+    padding: 3rem;
+    color: rgb(5, 5, 103);
+}
+
+.contact-section > h4{
+    padding: 1rem;
+}

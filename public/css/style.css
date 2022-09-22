@@ -42,7 +42,7 @@ li{
     width: 500px;
     margin: auto;
     padding-bottom: 2rem;
-    color: rgb(5, 5, 103);
+    color: #0b183ce3;
 }
 
 .log-section{
@@ -51,9 +51,14 @@ li{
 
 .contact-section{
     padding: 3rem;
-    color: rgb(5, 5, 103);
+    color: #0b183ce3;
 }
 
 .contact-section > h4{
     padding: 1rem;
+}
+
+.contact-btn{
+    margin-top: 2rem;
+    border-radius: 20px;
 }

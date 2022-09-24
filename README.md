@@ -76,7 +76,7 @@ I built a full-stack CRUD application for users to upload and share vacation pho
 
 Upon loading the webpage, an unauthenticated user is directed to the home page and authenticated user is directed to their profile. The home page includes a snippet about the site and the user can either log in or register a new account.
 
-Once authenticated or registered, the user is directed to their profile. Express session is utilize to store cookie and a session id in the user's browser to retrieve session information. On user's profile page, the user can upload images or go to the public feed. Feed is where users can view all vacation images shared on the site. 
+Once authenticated or registered, the user is directed to their profile. Express session is utilize to store cookie and a session id in the user's browser to retrieve session information. On user's profile page, the user can upload images or go to the public feed. Feed is where users can view all vacation images shared on the site. Users can like and comment on their own and other users' posts. Users can delete their own comments or comments on their posts. 
 </p>
 
 

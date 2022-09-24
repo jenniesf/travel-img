@@ -31,14 +31,25 @@ TravelGram is a social media application inspired by Instagram for users to shar
 
 <br>
 <h3 id="link">Link to webpage:</h3>
-<p>In progress</p>
+<p>https://travalgramapp.herokuapp.com/</p>
 
 <h3 id="screenshot">Screenshots:</h3> 
 
+<h3>Landing page</h3>
+
+<img width="1266" alt="TG-landingpage-screenshot" src="https://user-images.githubusercontent.com/99220339/192113212-9c0849ef-3966-4d57-a833-662ab3a7aa95.png">
 
 <h3>User's profile page</h3>
 
-<img width="999" alt="travelgram-screenshot" src="https://user-images.githubusercontent.com/99220339/191644448-73456a8c-d826-477e-a5b7-84f2d1bc60cd.png">
+<img width="700" alt="travelgram-screenshot" src="https://user-images.githubusercontent.com/99220339/191644448-73456a8c-d826-477e-a5b7-84f2d1bc60cd.png">
+
+<h3>Register page</h3>
+
+<img width="650" alt="TG-register-screenshot" src="https://user-images.githubusercontent.com/99220339/192113302-8161f2f2-c896-4c9e-9cf7-8460a47535ab.png">
+
+<h3>Login page</h3>
+
+<img width="650" alt="TG-login-screenshot" src="https://user-images.githubusercontent.com/99220339/192113228-bd8a27eb-dba0-40b9-bb96-dcfbfeb2ca5e.png">
 
 
 <h2 id="process">My Process</h2>

@@ -31,7 +31,7 @@ TravelGram is a fullstack CRUD social media application inspired by Instagram fo
 
 <br>
 <h3 id="link">Link to webpage:</h3>
-<p>https://travalgramapp.herokuapp.com/</p>
+<a href="https://travalgramapp.herokuapp.com/">TravelGram application</a>
 
 <h3 id="screenshot">Screenshots:</h3> 
 

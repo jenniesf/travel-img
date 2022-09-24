@@ -27,7 +27,7 @@
 
 <h3>About</h3>
 <p>
-TravelGram is a fullstack CRUD social media application inspired by Instagram for users to share vacation photos with friends and family. Users can create their profiles and images are shared on a feed.
+TravelGram is a fullstack CRUD social media application inspired by Instagram for users to share vacation photos and captions with friends and family. Users can create their own profiles and images are shared on a public feed. Users can also like photos/posts and add comments to posts. Users can delete their own photos/posts and comments. 
 
 <br>
 <h3 id="link">Link to webpage:</h3>

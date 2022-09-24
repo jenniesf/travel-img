@@ -65,6 +65,7 @@ TravelGram is a fullstack CRUD social media application inspired by Instagram fo
   <li>Cloudinary</li>
   <li>Passport</li>
   <li>Bootstrap</li>
+  <li>Tailwind</li>
   <li>Javascript</li>
 </ul>
 

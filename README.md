@@ -27,7 +27,7 @@
 
 <h3>About</h3>
 <p>
-TravelGram is a social media application inspired by Instagram for users to share vacation photos with friends and family. Users can create their profiles and images are shared on a feed.
+TravelGram is a fullstack CRUD social media application inspired by Instagram for users to share vacation photos with friends and family. Users can create their profiles and images are shared on a feed.
 
 <br>
 <h3 id="link">Link to webpage:</h3>
@@ -35,19 +35,19 @@ TravelGram is a social media application inspired by Instagram for users to shar
 
 <h3 id="screenshot">Screenshots:</h3> 
 
-<h3>Landing page</h3>
+<h3><ins>Landing page</ins></h3>
 
 <img width="1266" alt="TG-landingpage-screenshot" src="https://user-images.githubusercontent.com/99220339/192113212-9c0849ef-3966-4d57-a833-662ab3a7aa95.png">
 
-<h3>User's profile page</h3>
+<h3><ins>User's profile page</ins></h3>
 
 <img width="700" alt="travelgram-screenshot" src="https://user-images.githubusercontent.com/99220339/191644448-73456a8c-d826-477e-a5b7-84f2d1bc60cd.png">
 
-<h3>Register page</h3>
+<h3><ins>Register page</ins></h3>
 
 <img width="650" alt="TG-register-screenshot" src="https://user-images.githubusercontent.com/99220339/192113302-8161f2f2-c896-4c9e-9cf7-8460a47535ab.png">
 
-<h3>Login page</h3>
+<h3><ins>Login page</ins></h3>
 
 <img width="650" alt="TG-login-screenshot" src="https://user-images.githubusercontent.com/99220339/192113228-bd8a27eb-dba0-40b9-bb96-dcfbfeb2ca5e.png">
 
@@ -75,7 +75,7 @@ I built a full-stack CRUD application for users to upload and share vacation pho
 
 Upon loading the webpage, an unauthenticated user is directed to the home page and authenticated user is directed to their profile. The home page includes a snippet about the site and the user can either log in or register a new account.
 
-Once authenticated or registered, the user is directed to their profile. Here, the user can upload images or go to the public feed. Feed is where users can view all vacation images shared on the site. 
+Once authenticated or registered, the user is directed to their profile. Express session is utilize to store cookie and a session id in the user's browser to retrieve session information. On user's profile page, the user can upload images or go to the public feed. Feed is where users can view all vacation images shared on the site. 
 </p>
 
 
@@ -84,6 +84,7 @@ This was a fun project and I learned how to:
 <br><br>
 <ul>
   <li>Use Bootstrap framework and read and research documentation</li>
+  <li>Use Express-session to use a cookie to store session id in browser</li>
   <li>Use Passport for user authentication</li>
   <li>Use Multer middleware for handling multipart/form-data to upload files</li>
   <li>Use Cloudinary to host user images</li>
